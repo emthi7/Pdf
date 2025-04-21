@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>E.M.T.H.I. - C Programming PDF</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #222;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    .container {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+      margin-bottom: 0.5rem;
+    }
+    .price {
+      font-size: 1.2rem;
+      color: #0a891c;
+      margin-top: 0.5rem;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 1rem;
+      background-color: #0a891c;
+      color: white;
+      padding: 0.8rem 1.5rem;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+    .btn:hover {
+      background-color: #066f15;
+    }
+    footer {
+      text-align: center;
+      margin: 2rem 0;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>E.M.T.H.I.</h1>
+    <p>Every Mind Thrives Here Instantly</p>
+  </header>
+
+  <div class="container">
+    <h2>C Programming - Full Description PDF</h2>
+    <p>This PDF covers the entire foundation of C programming, including syntax, structure, and practical examples — perfect for students and beginners.</p>
+    <div class="price">Price: ৫০৳</div>
+    <a class="btn" href="tel:185997479">Send Money via bKash</a>
+  </div>
+
+  <footer>
+    Contact: <a href="mailto:mdemthihan@gmail.com">mdemthihan@gmail.com</a>
+  </footer>
+</body>
+</html>
